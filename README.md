@@ -16,11 +16,11 @@ Construir um software para gerenciamento de filmes do cinema e produtos em catá
 <li>Busca um produto específico que consta no catálogo.</li>
 <li>Adiciona produtos e alterar seus preços.</li>
  
-<h1>2.	TECNOLOGIAS</h1>
+<h2>2.	TECNOLOGIAS</h2>
  
-<h2>2.1 Python</h2>
+2.1 Python
 
-<h1>3.	DESENVOLVIMENTO DO PROJETO</h1>
+<h2>3.	DESENVOLVIMENTO DO PROJETO</h2>
 
 De início é criado um if e elif para apresentar os menus de navegação, sendo eles: Bilheteria e Lanchonete.
 A partir da escolha do cliente, será apresentado 8 funções para todo sistema, sendo elas 3 para bilheteria e 5 para a lanchonete.
