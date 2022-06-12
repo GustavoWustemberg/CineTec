@@ -1,13 +1,13 @@
-#1.	Tema
+<h1>1.	Tema</h1>
 O tema Cinema foi escolhido pelo professor Emerson trazendo a ideia de criação de funções usando a bilheteria (visualização de filmes, busca, compra) e lanchonete (visualização de produtos para comprar, alteração de preço)
 
-##1.2 Objetivos
+<h2>1.2 Objetivos</h2>
 Com base nos levantamentos realizados, chegamos aos seguintes objetivos:
 
-###1.2.1 Objetivo Geral
+<h3>1.2.1 Objetivo Geral</h3>
 Construir um software para gerenciamento de filmes do cinema e produtos em catálogo na lanchonete a partir de funções.
 
-###1.2.2 Objetivos Específicos
+<h3>1.2.2 Objetivos Específicos</h3>
 
 <li>isualização de filmes em cartaz, através de solicitação do cliente.</li>
 <li>Busca por algum filme em específico.</li>
@@ -16,13 +16,11 @@ Construir um software para gerenciamento de filmes do cinema e produtos em catá
 <li>Busca um produto específico que consta no catálogo.</li>
 <li>Adiciona produtos e alterar seus preços.</li>
  
-#2.	TECNOLOGIAS
+<h1>2.	TECNOLOGIAS</h1>
  
-##2.1 Python
- 
-Figura 1 – Logo Python 
+<h2>2.1 Python</h2>
 
-#3.	DESENVOLVIMENTO DO PROJETO
+<h1>3.	DESENVOLVIMENTO DO PROJETO</h1>
 
 De início é criado um if e elif para apresentar os menus de navegação, sendo eles: Bilheteria e Lanchonete.
 A partir da escolha do cliente, será apresentado 8 funções para todo sistema, sendo elas 3 para bilheteria e 5 para a lanchonete.
