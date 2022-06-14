@@ -58,6 +58,7 @@ Com a função “listarNomes()”, é apresentado um print dos produtos em um f
 Listar os produtos disponíveis sem os preços.
 
 <h3>Participantes do grupo<h3>
-Gustavo Wustemberg
-Gabriel Müller
-Laiza Sena
+ <p>Gustavo Wustemberg</p>
+ <p>Gabriel Müller</p>
+ <p>Laiza Sena</p>
+ 
