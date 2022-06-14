@@ -56,3 +56,8 @@ Altera valor no catálogo da lanchonete.
 Def listarNomes():
 Com a função “listarNomes()”, é apresentado um print dos produtos em um for que lista somente os nomes.
 Listar os produtos disponíveis sem os preços.
+
+<h3>Participantes do grupo<h3>
+Gustavo Wustemberg
+Gabriel Müller
+Laiza Sena
